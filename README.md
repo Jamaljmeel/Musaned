@@ -121,11 +121,11 @@ Database Layer
 lib/
 ├── models/
 ├── services/
-├── repositories/
+├── config/
+├── core/
 ├── providers/
-├── pages/
+├── screens/
 ├── widgets/
-├── utils/
 └── main.dart
 ```
 
