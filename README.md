@@ -91,25 +91,17 @@ Database Layer
 
 # 📱 Screenshots
 
-### Home Screen
+<div align="center">
 
-<img src="screenshots/home.png" width="250"/>
+| | | |
+|:-:|:-:|:-:|
+| <img src="screenshots/1.jpg" width="250"/> | <img src="screenshots/2.jpg" width="250"/> | <img src="screenshots/3.jpg" width="250"/> |
+| <img src="screenshots/4.jpg" width="250"/> | <img src="screenshots/5.jpg" width="250"/> | <img src="screenshots/6.jpg" width="250"/> |
+| <img src="screenshots/7.jpg" width="250"/> | <img src="screenshots/8.jpg" width="250"/> | <img src="screenshots/9.jpg" width="250"/> |
+| <img src="screenshots/10.jpg" width="250"/> | <img src="screenshots/11.jpg" width="250"/> | <img src="screenshots/12.jpg" width="250"/> |
+| <img src="screenshots/13.jpg" width="250"/> | <img src="screenshots/14.jpg" width="250"/> | <img src="screenshots/15.jpg" width="250"/> |
 
-### Products Screen
-
-<img src="screenshots/products.png" width="250"/>
-
-### Orders Screen
-
-<img src="screenshots/orders.png" width="250"/>
-
-### Profile Screen
-
-<img src="screenshots/profile.png" width="250"/>
-
-> Replace the screenshots with actual images from the application.
-
----
+</div>
 
 # ⚙️ Technologies Used
 
